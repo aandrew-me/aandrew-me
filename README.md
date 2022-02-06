@@ -1,16 +1,14 @@
-### Hi there 👋
+<div>
+    <img src="https://raw.githubusercontent.com/aandrew-me/images/aa7ce021da718badc112ce5a3ace52ee223a00b1/console.svg" max-width="100%" alt="hello"/>
+</div>
 
-<!--
-**aandrew-me/aandrew-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+$ echo Hi
+Hi
 
-Here are some ideas to get you started:
+$ uname 
+Andrew
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ whoami
+Web Developer
+```
