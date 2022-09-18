@@ -10,5 +10,5 @@ $ uname
 Andrew
 
 $ whoami
-Web Developer, Programmer
+Student, Programmer
 ```
